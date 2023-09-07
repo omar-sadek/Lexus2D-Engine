@@ -113,8 +113,8 @@ void Game::Update() {
 - Movement System.
 - Render System.
 - Collision Detection System (90% done).
-- Collsion Debug System.
-- Scene Loader: importing assets from lua script.
+- Collision Debug System.
+- Scene Loader: importing assets from Lua script.
 - Frame Swapper (Animation System).
 - Input Control System.
 - Camera Movement System.
@@ -133,6 +133,8 @@ The artwork used in the demo was created by [Jamie Brownhill](https://ko-fi.com/
 During the development, I found the following resources and references valuable:
 
 - [Nomad Game Engine](https://savas.ca/nomad): A blog post series introducing ECS concepts and their applications in game development.
+
+- [Pikuma](https://pikuma.com/courses/cpp-2d-game-engine-development): C++ Game Engine Programming Course.
 
 - [Mix Engine](https://github.com/arvidsson/Mix): An example of a robust ECS-based game engine.
 
