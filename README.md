@@ -111,7 +111,8 @@ void Game::Update() {
 ## Implemented Systems:
 
 - Movement System.
-- Render System.
+- Sprite Renderer.
+- Tilemap Renderer.
 - Collision Detection System (90% done).
 - Collision Debug System.
 - Scene Loader: importing assets from Lua script.
